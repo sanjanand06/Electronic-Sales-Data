@@ -10,20 +10,20 @@ Analysis of  a dataset containing details about sales of electronic components u
 
 # Dataset
 - Sales data for all the months of the year 2019.
-   - [January]
-   - [February]
-   - [March]
-   - [April]
-   - [May]
-   - [June]
-   - [July]
-   - [August]
-   - [September]
-   - [October]
-   - [November]
-   - [December]
+   - [January](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_January_2019.csv)
+   - [February](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_February_2019.csv)
+   - [March](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_March_2019.csv)
+   - [April](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_April_2019.csv)
+   - [May](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_May_2019.csv)
+   - [June](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_June_2019.csv)
+   - [July](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_July_2019.csv)
+   - [August](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_August_2019.csv)
+   - [September](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_September_2019.csv)
+   - [October](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_October_2019.csv)
+   - [November](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales_November_2019.csv)
+   - [December](https://raw.githubusercontent.com/sanjanand06/Electronic-Sales-Data/main/Sales_December_2019.csv)
 
-- Merged dataset by using to_csv: View [Dataset]
+- Merged dataset by using to_csv: View [Dataset](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/all_data.csv)
 
 # Methods
 
@@ -44,7 +44,7 @@ Analysis of  a dataset containing details about sales of electronic components u
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook [Python script]
+- Jupyter Notebook [Python script](https://github.com/sanjanand06/Electronic-Sales-Data/blob/main/Sales%20Analysis.ipynb)
 
 
 # Outcome
