@@ -47,9 +47,6 @@ Analysis of  a dataset containing details about sales of electronic components u
 - Jupyter Notebook [Python script]
 
 
-# Results at glance
- ![Question 1](E:\Coursera\Portfolio projects\Sales Data Analysis using Python\Images\1.1.png "Question 1")
-
 # Outcome
 
 1. There is rise in sales till April
@@ -61,7 +58,7 @@ Analysis of  a dataset containing details about sales of electronic components u
 
 3. It is recommended to advertise around 11am or around 7pm.
 
-4. 'i-phone' and 'Lighting Charging Cable' were the top most products sold together.s
+4. 'i-phone' and 'Lighting Charging Cable' were the top most products sold together.
 - 'Google Phone', 'USB-C Charging Cable' and 'iPhone', 'Wired Headphones' were among the top most products sold together.
 
 5. AA Batteries (4-pack) is the most sold product.
